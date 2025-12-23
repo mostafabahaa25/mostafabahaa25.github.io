@@ -38,7 +38,7 @@ collections:
     output: true
     sort_by: order
   publications:
-    output: true
+    output: false
     sort_by: year
   projects:
     output: true
@@ -66,7 +66,7 @@ collection_option:
     visibility: true
   publications: 
     label: Publications
-    visibility: true
+    visibility: false
   projects: 
     label: Projects ("What I can not create I do not understand", R.F)
     visibility: true

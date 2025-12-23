@@ -1,7 +1,7 @@
 ---
 title: Hierarchical-Relational-Networks-for-GARR
 layout: project 
-year: experiment replication
+year: modern implementation
 project-url: https://github.com/mostafabahaa25/Hierarchical-Relational-Networks-for-GARR
 excerpt: 
 project-image: 

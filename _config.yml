@@ -18,13 +18,13 @@ social:
     handle: msotafabahaa25
   linkedin: 
     visibility: true
-    handle: mostafabahaa25
+    handle: mostafa-bahaa-32765a221
   twitter: 
     visibility: false
     handle: Mostafa
   scholar:
-    visibility: true
-    handle: citations?user=87syn-oAAAAJ&hl=en
+    visibility: false
+    handle:
     
 # Collections
 collections:
